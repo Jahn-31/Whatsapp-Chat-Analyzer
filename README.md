@@ -2,7 +2,7 @@
 ![Banner](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/Orange%20And%20Blue%20Modern%20Professional%20Construction%20Banner%20Design.png)
 
 
-A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. Now its easy to effectively bisualise and manage your activities on WhatsApp. You can have a look at the App here -> [Website](https://wca-sakalya.herokuapp.com/)
+A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. Now its easy to effectively bisualise and manage your activities on WhatsApp. You can have a look at the App here -> [Website](https://huggingface.co/spaces/vedant22p/whatsapp-chat-analyzer)
 
 ## How to Use
 
