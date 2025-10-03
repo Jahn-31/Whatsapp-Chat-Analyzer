@@ -89,4 +89,5 @@ https://user-images.githubusercontent.com/70064084/169647743-2fd8ed8f-243f-4c9e-
 
 ## Contributors
 - [@vedant22p](https://github.com/vedant22p)
+- Project maintained by [@Jahn-31](https://github.com/Jahn-31)
 
