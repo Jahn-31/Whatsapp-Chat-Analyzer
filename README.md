@@ -84,8 +84,7 @@ With this web app we can further extend the features to an interactive dashboard
 
 ## Video Demo
 
-https://user-images.githubusercontent.com/70064084/169647743-2fd8ed8f-243f-4c9e-91eb-dd2193721263.mp4
-
+https://drive.google.com/file/d/1Vp5hI-xGTxXU82GfgJM70mqZP4TuoEgb/view?usp=sharing
 
 ## Contributors
 - [@vedant22p](https://github.com/vedant22p)
